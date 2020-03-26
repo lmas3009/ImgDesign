@@ -2,7 +2,7 @@
 
 # installation
 
-`npm -i ImgDesign --save`
+`npm i ImgDesign --save`
 
 # Example
 
@@ -10,7 +10,7 @@
 import { ImgDesign } from 'ImgDesign';
 
 ImgDesign({
-    type="soft"
+    type:"soft"
 })
 
 ```
