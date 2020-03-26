@@ -8,7 +8,7 @@ function ImgDesign(options){
     
 
         images.forEach(img=>{
-            img.style.width="900px";
+            img.style.color='red';
         })
 }
 
