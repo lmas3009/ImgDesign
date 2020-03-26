@@ -1,1 +1,4 @@
 # ImgDesign
+
+# installation
+`sghjs`
