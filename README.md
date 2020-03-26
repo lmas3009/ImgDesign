@@ -1,4 +1,16 @@
 # ImgDesign
 
 # installation
-`sghjs`
+
+`npm -i ImgDesign --save`
+
+# Example
+
+```
+import { ImgDesign } from 'ImgDesign';
+
+ImgDesign({
+    type="soft"
+})
+
+```
