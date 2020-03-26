@@ -1,0 +1,22 @@
+{
+  "name": "imgdesign1",
+  "version": "1.0.0",
+  "description": "A new of designing a image",
+  "main": "ImgDesign.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmas3009/ImgDesign.git"
+  },
+  "keywords": [
+    "ImgDesign"
+  ],
+  "author": "LMAS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lmas3009/ImgDesign/issues"
+  },
+  "homepage": "https://github.com/lmas3009/ImgDesign#readme"
+}
