@@ -1,15 +1,15 @@
 function ImgDesign(options){
     let images = document.querySelectorAll(".ImgDesign");
 
-    if(options.type == "hard")
-        options.type = "0px"
-    else    
-        options.type = "15px"
-    
-
+   
         images.forEach(img=>{
             img.style.color='red';
         })
+
+    let info = document.querySelectorAll(".hdes");
+    info.forEach(hdes=>{
+        hdes.style.color='red';
+    })
 }
 
 module.exports.ImgDesign = ImgDesign;
